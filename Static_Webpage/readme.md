@@ -104,6 +104,3 @@ You should see your **Dog Image Gallery** live
 
 ---
 
-
-If you want next level:
-👉 I can help you add **CloudFront + HTTPS + custom domain** 🚀
